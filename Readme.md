@@ -1,3 +1,6 @@
+
+  This driver also works with my Epever Triron 4210n.
+  
   The new Rasperry Pi operating system, Bookworm 12, has a driver designated 'ttyUSB0.'
   Historically, getting a driver for the Epever charge controllers' Exar chip to run has been 
   difficult, at best.
