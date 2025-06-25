@@ -27,11 +27,11 @@
   Call the exec from within scripts or systemd services.
 
 
-  pi@raspberrypi-ssd:~ $ lsusb
-Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
-Bus 001 Device 004: ID 13fd:0840 Initio Corporation INIC-1618L SATA <--- enclosure for USB SSD
-Bus 001 Device 003: ID 04e2:1411 Exar Corp. XR21B1411 UART  <--- Exar driver pre-installed by opsys Bookworm May-13-2025 release.
-Bus 001 Device 002: ID 2109:3431 VIA Labs, Inc. Hub
-Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+1. pi@raspberrypi-ssd:~ $ lsusb
+2. Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+3. Bus 001 Device 004: ID 13fd:0840 Initio Corporation INIC-1618L SATA <--- enclosure for USB SSD
+4. Bus 001 Device 003: ID 04e2:1411 Exar Corp. XR21B1411 UART  <--- Exar driver pre-installed by opsys Bookworm May-13-2025 release.
+5. Bus 001 Device 002: ID 2109:3431 VIA Labs, Inc. Hub
+6. Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 
 
