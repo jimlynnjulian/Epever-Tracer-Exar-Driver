@@ -1,6 +1,6 @@
   
 
-This driver is derived from code found online in a liniux source archive.
+This driver is derived from code found online in a linux source archive.
 The driver works with Epever Triron 4210n. The Tracer series may also work.
 
 Make a folder, insert the code, and compile. No downloads or installations shoiuld be needed.
