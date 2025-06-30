@@ -1,0 +1,11 @@
+[Unit]
+Description= Initialize USB0
+#After=multi-user.target init-relays.service
+
+[Service]
+Type=oneshot
+ExecStart=stty -F /dev/ttyUSB0 115200 cs8 -cstopb -parenb
+#ExecStart=/var/www/html/rs485/ rs485 /dev/ttyUSB0 receive "$3100"
+
+[Install]
+WantedBy=multi-user.target
